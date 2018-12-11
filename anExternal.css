@@ -1,0 +1,8 @@
+#roundedborder{
+   border:solid 5px black;
+   border-radius: 15px;
+}
+
+#float{
+    float:right;
+}
